@@ -1,9 +1,9 @@
-package sk.stuba.fei.uim.oop.utility;
+package sk.stuba.fei.uim.oop;
 
 import java.util.Objects;
 import java.util.Scanner;
 
-public class CvikoPorovnavanie {
+public class PorovnavanieCviko {
 
     public static void main(String[] args) {
 
