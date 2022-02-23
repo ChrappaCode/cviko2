@@ -34,7 +34,7 @@ public class DruhaCastCvika {
     }
 
     /**
-     *
+     * funkcia vypise array
      * @param array - pole cisel
      */
 
@@ -46,7 +46,7 @@ public class DruhaCastCvika {
     }
 
     /**
-     *
+     * funkcia vypise array pomocou int...
      * @param text - aky text ma vypisat
      * @param array - nejake pole cisel
      */
