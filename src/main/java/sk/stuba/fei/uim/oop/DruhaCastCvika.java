@@ -21,6 +21,11 @@ public class DruhaCastCvika {
 
     }
 
+    /**
+     *  tato funkcia vypisuje cislo
+     * @param cislo - intiger cislo
+     */
+
     public static void testPrimitive (int cislo){
 
         cislo = 10;
@@ -28,12 +33,23 @@ public class DruhaCastCvika {
 
     }
 
+    /**
+     *
+     * @param array - pole cisel
+     */
+
     public static void testArray(int[] array){
 
         array[0] = 10;
         System.out.println(Arrays.toString(array));
 
     }
+
+    /**
+     *
+     * @param text - aky text ma vypisat
+     * @param array - nejake pole cisel
+     */
 
     public static void testArraySpread(String text ,int... array){
 
